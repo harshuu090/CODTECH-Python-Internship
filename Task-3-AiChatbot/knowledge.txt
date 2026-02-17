@@ -1,0 +1,12 @@
+Hello
+Hi there! How can I assist you?
+What is your name?
+I am an AI chatbot created for Task 3 internship project.
+What is Python?
+Python is a popular programming language used for web development, AI, data science, and automation.
+What is machine learning?
+Machine learning is a branch of artificial intelligence that allows systems to learn from data.
+How are you?
+I am just a bot, but I am functioning perfectly!
+Bye
+Goodbye! Have a great day!

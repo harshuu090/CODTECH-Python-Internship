@@ -2,7 +2,7 @@ import requests
 import matplotlib.pyplot as plt
 
 
-api_key = "c6bbe118a770e1faf80dc8c547f68a10"   
+api_key = "Your api key"   
 city = "Delhi"
 
 
